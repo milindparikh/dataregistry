@@ -1,0 +1,7 @@
+md5: 74ecf15f49d51ce9a4a8cb37c6eb494a
+outs:
+- md5: 0d394141053662fedb1887b58552b450
+  path: us_postal_codes.zip
+  cache: true
+  metric: false
+  persist: false
