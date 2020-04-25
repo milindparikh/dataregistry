@@ -1,0 +1,7 @@
+md5: da0344a5465a6f67601c324f3474f687
+outs:
+- md5: da9dd87cb778230ddbdd8850c72ab8e4
+  path: lnames.txt
+  cache: true
+  metric: false
+  persist: false

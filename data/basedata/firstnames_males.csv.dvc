@@ -1,7 +1,0 @@
-md5: e2727cf2ce0652c4c1c52908b6991e3a
-outs:
-- md5: d30e8ad88a1b7a5aefb3905923ff747d
-  path: firstnames_males.csv
-  cache: true
-  metric: false
-  persist: false

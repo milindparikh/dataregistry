@@ -1,0 +1,7 @@
+md5: 0df4e825466d23d526f8086d05f5d23f
+outs:
+- md5: 452396708be4ef676a474dc9aa8f4a3f
+  path: fnames.txt
+  cache: true
+  metric: false
+  persist: false
