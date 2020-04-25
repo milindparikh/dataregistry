@@ -1,0 +1,7 @@
+md5: 8d464899251b8f8f4220cffacef3fa5b
+outs:
+- md5: 6f5902ac237024bdd0c176cb93063dc4
+  path: helloworld.txt
+  cache: true
+  metric: false
+  persist: false
